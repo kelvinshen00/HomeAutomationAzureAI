@@ -1,0 +1,27 @@
+{
+  "name": "homeautomationazureai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinshen00/HomeAutomationAzureAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinshen00/HomeAutomationAzureAI/issues"
+  },
+  "homepage": "https://github.com/kelvinshen00/HomeAutomationAzureAI#readme",
+  "dependencies": {
+    "@azure/openai": "^2.0.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0",
+    "readline": "^1.3.0"
+  }
+}
+
